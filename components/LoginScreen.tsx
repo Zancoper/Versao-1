@@ -37,7 +37,7 @@ const LoginScreen: React.FC = () => {
           {/* Subtext curved vibe */}
           <div className="flex flex-col items-center -mt-1">
              <span className="text-[10px] tracking-[0.2em] text-[#c4a484] uppercase font-medium">
-               Por Audrey Olaia
+               Por Reinaldo
              </span>
           </div>
         </div>
